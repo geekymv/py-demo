@@ -16,3 +16,9 @@ python练习
         print(i)
     print('hello world')
 ```
+
+```java
+    System.out.println("hello world")
+
+```
+
