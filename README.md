@@ -11,3 +11,8 @@ python练习
 `for i in xrange(10):
     print(i)
 `
+```python
+    for i in xrange(10):
+        print(i)
+    print('hello world')
+```
