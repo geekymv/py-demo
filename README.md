@@ -5,3 +5,7 @@ python练习
 ## 二级标题
 ### 三级标题
 [超链接到百度](http://www.baidu.com)
+
+`代码块
+print("hello world")
+`
